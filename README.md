@@ -1,9 +1,9 @@
 # Santader_DataScience_DIO
 
-## ETL python mensagem de investimento
-### duas maneiras de mandar mensagens
 
 
-  -  Por ia generativa(*CHATGPT*)
+  ## Projetos
   
-  - Por arquivo csv, utilizando bilioteca random 
+  
+  
+   - [ETL - Python](/ETL_Python/ETL_pipeline_santander_DataScience.ipynb)
